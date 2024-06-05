@@ -1,0 +1,31 @@
+.divTimer {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(108, 44, 143);
+    padding: 50px;
+    margin-left: 900px;
+    margin-right: 900px;
+    border-radius: 10px;
+}
+
+.Titulo {
+    font-size: 50px;
+    color: white;
+    margin: 20px;
+}
+
+.Segundos {
+    font-size: 35px;
+    margin: 0;
+    color: white;
+    font-weight: bold;
+}
+
+.info {
+    margin: 0;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
